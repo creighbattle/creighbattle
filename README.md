@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @creighbattle
-- 👀 I’m interested in web dev.
-- 🌱 I’m currently learning Spring.
 - 📫 How to reach me -creighbattle@gmail.com
 
 <!---
